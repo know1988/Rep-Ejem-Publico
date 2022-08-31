@@ -1,9 +1,9 @@
-package com.juanma.kikeana.configuration;
+package com.ingenieriacreactiva.scrum.configuration;
 
-import com.juanma.kikeana.entity.Employee;
-import com.juanma.kikeana.entity.Enterprise;
-import com.juanma.kikeana.entity.Profile;
-import com.juanma.kikeana.entity.Transaction;
+import com.ingenieriacreactiva.scrum.entity.Employee;
+import com.ingenieriacreactiva.scrum.entity.Enterprise;
+import com.ingenieriacreactiva.scrum.entity.Profile;
+import com.ingenieriacreactiva.scrum.entity.Transaction;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

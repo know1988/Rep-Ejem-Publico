@@ -1,4 +1,4 @@
-package com.juanma.kikeana.entity;
+package com.ingenieriacreactiva.scrum.entity;
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import org.springframework.beans.factory.annotation.Autowired;

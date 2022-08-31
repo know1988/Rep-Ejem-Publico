@@ -1,4 +1,4 @@
-package com.juanma.kikeana.enums;
+package com.ingenieriacreactiva.scrum.enums;
 
 import javax.persistence.Table;
 

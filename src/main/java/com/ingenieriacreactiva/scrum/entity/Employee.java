@@ -1,7 +1,7 @@
-package com.juanma.kikeana.entity;
+package com.ingenieriacreactiva.scrum.entity;
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;
-import com.juanma.kikeana.enums.Enum_RolName;
+import com.ingenieriacreactiva.scrum.enums.Enum_RolName;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import javax.persistence.*;

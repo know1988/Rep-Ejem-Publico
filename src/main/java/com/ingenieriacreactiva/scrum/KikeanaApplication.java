@@ -1,4 +1,4 @@
-package com.juanma.kikeana;
+package com.ingenieriacreactiva.scrum;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

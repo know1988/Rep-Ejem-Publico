@@ -1,9 +1,9 @@
-package com.juanma.kikeana.controller;
+package com.ingenieriacreactiva.scrum.controller;
 
-import com.juanma.kikeana.entity.Employee;
-import com.juanma.kikeana.entity.Enterprise;
-import com.juanma.kikeana.entity.Profile;
-import com.juanma.kikeana.entity.Transaction;
+import com.ingenieriacreactiva.scrum.entity.Employee;
+import com.ingenieriacreactiva.scrum.entity.Enterprise;
+import com.ingenieriacreactiva.scrum.entity.Profile;
+import com.ingenieriacreactiva.scrum.entity.Transaction;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -29,13 +29,13 @@ public class Rest {
     }
 
     @GetMapping("/")
-    public String saludar(){
-        return "Mamá, estoy triunfando, hice mi primera página web con Spring Boot";
+    public String pruebaspringboot(){
+        return "Esta es la primera prueba con Spring Boot";
     }
 
     @GetMapping("/about")
-    public String presentar(){
-        return "Hola! Me llamo Juan Manuel Suárez :)";
+    public String presentacion(){
+        return "Hola! Me llamo Juan Diego Cano :)";
     }
 
 }
